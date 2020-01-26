@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation suite" duration-ms="313" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+    <groups>
+    </groups>
+    <test name="suite configuration.xml" duration-ms="16" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+    </test> <!-- suite configuration.xml -->
+    <test name="Module 1" duration-ms="94" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+      <class name="module1.Module1InitializationAndTeardown">
+        <test-method status="PASS" signature="module1initilazion()[pri:0, instance:module1.Module1InitializationAndTeardown@2b552920]" name="module1initilazion" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- module1initilazion -->
+        <test-method status="PASS" signature="module1teardown()[pri:0, instance:module1.Module1InitializationAndTeardown@2b552920]" name="module1teardown" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- module1teardown -->
+      </class> <!-- module1.Module1InitializationAndTeardown -->
+      <class name="module1.Test2Module1">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:module1.Test2Module1@1f36e637]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:module1.Test2Module1@1f36e637]" name="test1" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:module1.Test2Module1@1f36e637]" name="test2" duration-ms="16" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:module1.Test2Module1@1f36e637]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:module1.Test2Module1@1f36e637]" name="launchBrowser" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:module1.Test2Module1@1f36e637]" name="launchBrowser" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:module1.Test2Module1@1f36e637]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:module1.Test2Module1@1f36e637]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- module1.Test2Module1 -->
+      <class name="module1.Test1Module1">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:module1.Test1Module1@2758fe70]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:module1.Test1Module1@2758fe70]" name="launchBrowser" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:module1.Test1Module1@2758fe70]" name="test1" duration-ms="16" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:module1.Test1Module1@2758fe70]" name="test2" duration-ms="16" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:module1.Test1Module1@2758fe70]" name="launchBrowser" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:module1.Test1Module1@2758fe70]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:module1.Test1Module1@2758fe70]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:module1.Test1Module1@2758fe70]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- module1.Test1Module1 -->
+    </test> <!-- Module 1 -->
+    <test name="Module 2" duration-ms="47" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+      <class name="module2.Test1Module2">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:module2.Test1Module2@3a883ce7]" name="beforeClass" is-config="true" duration-ms="1" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:module2.Test1Module2@3a883ce7]" name="launchBrowser" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:module2.Test1Module2@3a883ce7]" name="launchBrowser" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:module2.Test1Module2@3a883ce7]" name="test2" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:module2.Test1Module2@3a883ce7]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:module2.Test1Module2@3a883ce7]" name="test1" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:module2.Test1Module2@3a883ce7]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:module2.Test1Module2@3a883ce7]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- module2.Test1Module2 -->
+      <class name="module2.Test2Module2">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:module2.Test2Module2@4973813a]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:module2.Test2Module2@4973813a]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:module2.Test2Module2@4973813a]" name="launchBrowser" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:module2.Test2Module2@4973813a]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:module2.Test2Module2@4973813a]" name="test2" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:module2.Test2Module2@4973813a]" name="afterClass" is-config="true" duration-ms="15" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:module2.Test2Module2@4973813a]" name="launchBrowser" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:module2.Test2Module2@4973813a]" name="test1" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- module2.Test2Module2 -->
+      <class name="module2.Module2InitializationAndTeardown">
+        <test-method status="PASS" signature="module1initilazion()[pri:0, instance:module2.Module2InitializationAndTeardown@cd2dae5]" name="module1initilazion" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- module1initilazion -->
+        <test-method status="PASS" signature="module2teardown()[pri:0, instance:module2.Module2InitializationAndTeardown@cd2dae5]" name="module2teardown" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- module2teardown -->
+      </class> <!-- module2.Module2InitializationAndTeardown -->
+    </test> <!-- Module 2 -->
+    <test name="Module 3" duration-ms="15" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+      <class name="suite.SuiteInitializationAndTeardown">
+        <test-method status="PASS" signature="initization()[pri:0, instance:suite.SuiteInitializationAndTeardown@7e0b0338]" name="initization" is-config="true" duration-ms="16" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initization -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:suite.SuiteInitializationAndTeardown@7e0b0338]" name="teardown" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- suite.SuiteInitializationAndTeardown -->
+      <class name="module3.Test2Module3">
+        <test-method status="PASS" signature="test1()[pri:0, instance:module3.Test2Module3@68bbe345]" name="test1" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:module3.Test2Module3@68bbe345]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:module3.Test2Module3@68bbe345]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:module3.Test2Module3@68bbe345]" name="test2" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:module3.Test2Module3@68bbe345]" name="launchBrowser" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:module3.Test2Module3@68bbe345]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:module3.Test2Module3@68bbe345]" name="launchBrowser" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:module3.Test2Module3@68bbe345]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- module3.Test2Module3 -->
+      <class name="module3.Test1Module3">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:module3.Test1Module3@a7e666]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:module3.Test1Module3@a7e666]" name="test1" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:module3.Test1Module3@a7e666]" name="launchBrowser" is-config="true" duration-ms="15" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:module3.Test1Module3@a7e666]" name="launchBrowser" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:module3.Test1Module3@a7e666]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:module3.Test1Module3@a7e666]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:module3.Test1Module3@a7e666]" name="test2" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:module3.Test1Module3@a7e666]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- module3.Test1Module3 -->
+      <class name="module3.Module3InitializationAndTeardown">
+        <test-method status="PASS" signature="module1initilazion()[pri:0, instance:module3.Module3InitializationAndTeardown@72b6cbcc]" name="module1initilazion" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- module1initilazion -->
+        <test-method status="PASS" signature="module3teardown()[pri:0, instance:module3.Module3InitializationAndTeardown@72b6cbcc]" name="module3teardown" is-config="true" duration-ms="0" started-at="2020-01-18T15:38:32 IST" finished-at="2020-01-18T15:38:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- module3teardown -->
+      </class> <!-- module3.Module3InitializationAndTeardown -->
+    </test> <!-- Module 3 -->
+  </suite> <!-- Automation suite -->
+</testng-results>
